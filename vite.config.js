@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // cambia REPOSITORIO por el nombre exacto de tu repo.
 export default defineConfig({
   plugins: [react()],
-  base: "/REPOSITORIO/"
+  base: "/Escuela/"
 });
